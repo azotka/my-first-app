@@ -25,7 +25,7 @@ SECRET_KEY = 'a8-_dq#@_skr)dp8t!n*^w=6$u%3mw_0u#6y)ik75jid(&tq#b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'azotka.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'konstantin.pythonanywhere.com']
 
 
 # Application definition
